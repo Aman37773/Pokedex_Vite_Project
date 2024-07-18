@@ -1,0 +1,10 @@
+.inner-pok img{
+          width:200px;
+          height:200px;
+}
+.inner-pok div{
+          text-align: center;
+          font-size: larger;
+          font-weight:900;
+          letter-spacing: 2px;;
+}
